@@ -1,0 +1,9 @@
+,NameUser,NameActivity,PredictedActivity
+0,d5EbhEU0TDmm64UDyy71nE,Secondary_Main ,Sitting
+1,d5EbhEU0TDmm64UDyy71nE,MainActivity ,Hopping
+2,d5EbhEU0TDmm64UDyy71nE,Secondary_Main ,Walking
+3,d5EbhEU0TDmm64UDyy71nE,Video1Activity ,Walking
+4,d5EbhEU0TDmm64UDyy71nE,Domanda_Video1Activity ,Sitting
+5,d5EbhEU0TDmm64UDyy71nE,Video2Activity ,Sitting
+6,d5EbhEU0TDmm64UDyy71nE,Domanda_Video2Activity ,Sitting
+7,d5EbhEU0TDmm64UDyy71nE,Video3Activity ,Hopping
